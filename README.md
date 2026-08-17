@@ -133,6 +133,10 @@ It can be further improved by adding features such as:
 - 📊 Displaying multiple records
 - 💾 Saving records permanently
 
+## Explanation video :
+
+https://drive.google.com/file/d/1a9HA4kDT2TqpE0xWiYHpFHB55Xy1cWjJ/view?usp=sharing
+
 
 ## 👨‍💼 Connect With Me :
 
